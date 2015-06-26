@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Zeach Cobbler
+// @name         Zeach Cobbler - Grazer test
 // @namespace    https://github.com/RealDebugMonkey/ZeachCobbler
-// @updateURL    http://bit.do/ZeachCobblerJS
-// @downloadURL  http://bit.do/ZeachCobblerJS
+// @updateURL    https://github.com/RealDebugMonkey/ZeachCobbler/raw/grazer-test/ZeachCobbler.user.js
+// @downloadURL  https://github.com/RealDebugMonkey/ZeachCobbler/raw/grazer-test/ZeachCobbler.user.js
 // @contributer  The White Light -- You rock the maths.
 // @contributer  Angal - For the UI additions and server select code
 // @contributer  Gjum - Bug fixes
