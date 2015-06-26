@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Zeach Cobbler - Grazer test
-// @namespace    https://github.com/RealDebugMonkey/ZeachCobbler
+// @namespace    https://github.com/RealDebugMonkey/ZeachCobbler/tree/grazer-test
 // @updateURL    https://github.com/RealDebugMonkey/ZeachCobbler/raw/grazer-test/ZeachCobbler.user.js
 // @downloadURL  https://github.com/RealDebugMonkey/ZeachCobbler/raw/grazer-test/ZeachCobbler.user.js
 // @contributer  The White Light -- You rock the maths.
